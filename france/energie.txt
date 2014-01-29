@@ -1,0 +1,20 @@
+******** HEADER STARTS *********
+ Ce courrier contient des images. Si elles ne s'affichent pas correctement, cliquez ici :
+%%HYPERLINK:affichage_correct#SPCLICK#http://recp.mkt41.net/servlet/MailView?m=%%MAILING_ID%%&r=%%RECIPIENT_ID%%&j=%%JOB_ID_CODE%%&mt=1#%%
+
+
+******** HEADER ENDS **********
+
+
+
+******** FOOTER STARTS *********
+
+-- 
+Greenpeace
+13 rue d'Enghien 75010 PARIS
+Tel : 01 80 96 96 96
+
+Pour ne plus recevoir d'email de Greenpeace, désabonnez vous en cliquant ici :
+%%HYPERLINK:desinscription#SPCLICK#http://newsletter.greenpeace.fr/desinscription.php?source=%%MAILING_NAME%%&utm_source=silverpop&utm_medium=email&utm_campaign=%%MAILING_NAME%%&utm_content=%%LINK_NAME%%#%%
+                                                                         
+********** FOOTER ENDS **********
